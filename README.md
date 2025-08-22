@@ -17,8 +17,6 @@
     <i>⚠️ Important: This tool is for educational purposes only. Misuse is your responsibility. The developer is not responsible for any illegal activity!</i>
 </p>
 
----
-
 ## 🚀 Install
 ```bash
 pkg update && upgrade -y
@@ -41,10 +39,7 @@ python run.py
 | 5 minggu    | 250k   |
 | ...         | +50k/minggu tambahan |
 
-<div align="center">
-  <video width="500" controls>
-    <source src="https://github.com/khamdihi-dev/fbhack/raw/main/record.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
+## Demo Video
+[Klik di sini untuk menonton video demo](https://github.com/khamdihi-dev/fbhack/blob/main/record.mp4)
+
 
