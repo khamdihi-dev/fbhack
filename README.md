@@ -40,3 +40,11 @@ python run.py
 | 4 minggu    | 200k   |
 | 5 minggu    | 250k   |
 | ...         | +50k/minggu tambahan |
+
+<div align="center">
+  <video width="500" controls>
+    <source src="https://github.com/khamdihi-dev/fbhack/raw/main/record.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
