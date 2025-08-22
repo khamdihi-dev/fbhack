@@ -40,6 +40,6 @@ python run.py
 | ...         | +50k/minggu tambahan |
 
 ## Demo Video
-[Klik di sini untuk menonton video demo](https://github.com/khamdihi-dev/fbhack/blob/main/record.mp4)
+[Klik di sini untuk menonton video demo](https://github.com/khamdihi-dev/fbhack/raw/refs/heads/main/record.mp4)
 
 
